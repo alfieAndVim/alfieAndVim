@@ -17,3 +17,4 @@ Other Skills in Programming:
  - SwiftUI
  - Dot Net/Blazor
  - Tensorflow
+ - Firebase
