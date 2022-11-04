@@ -12,3 +12,8 @@ Skills in Languages:
  - C#
  - PostgreSQL
 
+Other Skills in Programming:
+ - Flutter
+ - SwiftUI
+ - Dot Net/Blazor
+ - Tensorflow
