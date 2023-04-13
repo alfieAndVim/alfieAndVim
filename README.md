@@ -8,7 +8,7 @@ Skills in Languages:
  - Javascript/CSS/HTML
  - Swift
  - Java
- - C
+ - C / C++
  - C#
  - PostgreSQL
 
